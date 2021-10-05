@@ -1,0 +1,326 @@
+body{
+
+    background-color: #F6F6F6;
+
+}
+
+
+h2{
+
+    font-size: 2.5vw;
+
+    font-family: 'Rubik', sans-serif;
+
+    text-align: center;
+    color: rgb(109, 109, 109);
+
+
+}
+
+h3{
+
+    font-size: 1.5vw;
+    overflow-wrap: break-word;
+    font-family: 'Rubik', sans-serif;
+
+    color: rgb(109, 109, 109);
+
+}
+
+
+.SectionIntro{
+
+    position:relative;
+    width: 100%;
+    height: 100vh;
+    min-height: 300px;
+
+}
+
+.CenteredContent{
+
+    all:initial;
+
+    position: absolute;
+    width: 20%;
+    transform: translate(-50%, -50%);
+    left: 50%; top: 50%;
+
+    background-color: white;
+
+    border-radius: 1vw;
+    padding: 1vw;
+
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+
+}
+
+#SiteTitle{
+
+    text-align: center;
+    vertical-align: middle;
+    line-height: 4vw;
+
+    font-size: 3vw;
+
+    font-family: 'Rubik', sans-serif;
+
+}
+
+#ChristenTumLogo{
+    width: 17vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#FoundOutTitleDiv{
+
+
+    width: 40vw;
+    height: auto;
+
+    top: 20%;
+    
+
+
+}
+
+#FoundOutImage{
+
+    width: 25vw;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+
+
+}
+
+
+#FoundOutTextText{
+
+
+    position: absolute;
+
+    top: 45vh;
+
+    left: 10%;
+
+}
+
+
+#SectionCountrieTitleDiv{
+
+    width: 50vw;
+
+    top: 5%
+
+}
+
+.CenteredCountrieDiv{
+
+    all:initial;
+
+    position: absolute;
+    width: 60vw;
+    height: 60vh;
+    transform: translate(-50%, -50%);
+    left: 50%; top: 50%;
+
+    background-color: white;
+
+    border-radius: 1vw;
+    padding: 1vw;
+
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+
+}
+
+.CenteredCountrieTitle{
+
+    position: absolute;
+
+    
+    left: 25%;
+}
+
+.CentredCountrieText{
+    
+    position: absolute;
+
+    left: 10%;
+
+    text-align: center;
+
+    top: 30%
+
+}
+
+.CentredCountrieImg{
+
+
+    
+    border-radius: 1vw;
+    padding: 1vw;
+
+
+
+}
+
+#CentredNordKoreaImg{
+
+    position: absolute;
+
+    width: 35vh;
+
+    top: 7%;
+
+    left: 70%;
+
+}
+
+#CentredAfghanistanImg{
+
+
+    position: absolute;
+
+    width: 35vh;
+
+    top: 20%;
+
+    left: 65%;
+
+}
+
+#CentredSomaliaImg{
+
+
+    position: absolute;
+
+    width: 45vh;
+
+    top: 20%;
+
+    left: 60%;
+
+}
+
+#CentredLibyenImg{
+
+
+    position: absolute;
+
+    width: 45vh;
+
+    height: 27vh;
+
+    top: 20%;
+
+    left: 60%;
+
+}
+
+
+button{
+
+    position: absolute;
+
+    background-color: blueviolet;
+
+    width: 38vw;
+    height: 10vh;
+
+    left: 5%;
+    top: 72%;
+
+    border-radius: 1vw;
+    padding: 1vw;
+
+    color: white;
+    font-size: 1.5vw;
+
+    font-family: 'Rubik', sans-serif;
+
+    text-decoration: none;
+
+}
+
+a{
+
+
+    
+    position: absolute;
+
+    background-color: #00c7e6;
+
+    width: 38vw;
+    height: 6vh;
+
+    line-height: 6vh;
+
+    left: 5%;
+    top: 72%;
+
+    border-radius: 1vw;
+    padding: 1vw;
+
+    color: white;
+    font-size: 1.5vw;
+
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: 'Rubik', sans-serif;
+
+    text-decoration: none;
+
+}
+
+#CoronaTitleDiv{
+
+
+    width: 35vw;
+    height: 10vh;
+
+    left: 30%;
+
+    top: 20%;
+
+
+}
+
+#ChristenTitleTitle{
+
+    position: absolute;
+
+    width: 30vw;
+
+    top: -30%;
+
+    left: 10%;
+
+}
+
+#CoronaImage{
+
+    width: 30vw;
+    position: absolute;
+    top: 15%;
+    left: 60%;
+
+
+}
+
+
+#CoronaTextText{
+
+
+    position: absolute;
+
+    top: 30vh;
+
+    left: 10%;
+
+    text-align: center;
+
+}
