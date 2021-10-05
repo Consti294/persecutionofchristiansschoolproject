@@ -90,11 +90,13 @@ function LastSite(){
     $(x[currentPage]).hide();
 
     
-    if(x[currentPage-1] != null){
+    if(x[currentPage-1] == null){
         
-        currentPage--;
+        window.location.href = "index.html";
 
     }
+
+    currentPage--;
 
     $(x[currentPage]).show();
 
